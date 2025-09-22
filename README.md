@@ -2,7 +2,7 @@
 
 ## OBJETIVO DEL PROYECTO
 Desarrollar un editor de texto sencillo en consola utilizando el lenguaje Java, que permita al usuario escribir líneas de texto, deshacer (Undo) y rehacer (Redo) acciones mediante pilas implementadas manualmente, con el fin de comprender su estructura y funcionamiento.  
-Además, fomentar el trabajo colaborativo mediante el uso de GitHub para el control de versiones y la participación activa de todos los integrantes del equipo.
+
 
 ---
 
